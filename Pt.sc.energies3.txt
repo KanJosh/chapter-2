@@ -1,0 +1,10 @@
+Pt.sc.10-scf.o:!    total energy              =     -65.29491371 Ry
+Pt.sc.1-scf.o:!    total energy              =     -65.13858417 Ry
+Pt.sc.2-scf.o:!    total energy              =     -65.23449905 Ry
+Pt.sc.3-scf.o:!    total energy              =     -65.29607188 Ry
+Pt.sc.4-scf.o:!    total energy              =     -65.33201743 Ry
+Pt.sc.5-scf.o:!    total energy              =     -65.34906893 Ry
+Pt.sc.6-scf.o:!    total energy              =     -65.35241755 Ry
+Pt.sc.7-scf.o:!    total energy              =     -65.34603167 Ry
+Pt.sc.8-scf.o:!    total energy              =     -65.33291995 Ry
+Pt.sc.9-scf.o:!    total energy              =     -65.31532465 Ry
